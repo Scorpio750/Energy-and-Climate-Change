@@ -18,4 +18,9 @@
 
 - Not weather
 	- Weather refers to a snapshot of what's going on at a particular time
-	- Climate is the synthesis of weather, including averages, extremes, and variatons
+	- Climate is the synthesis of weather, including averages, extremes, and variations
+	
+### Earth's Energy Balance: Regulator of Global Climate
+
+- Earth is heated by sunlight that is absorbed by its surface and atmosphere
+- Earth is cooled by outgoing infrared energy
